@@ -1,20 +1,36 @@
-I am Suraj.
+# Hi, I'm Suraj 👋
 
-I am FullStack Web Devloper.
+I am a **Full-Stack Web Developer**.
 
-Technologies that i work on :-
+---
 
-  Frontend :-
-         React   Next   Tailwind   Redux-toolkit
+## 🚀 Technologies I Work With
 
-  Backend :-
-         Express   Redis   Kafka   Prisma   PostgreSql
+### **Frontend**
+- React  
+- Next.js  
+- Tailwind CSS  
+- Redux Toolkit  
 
-  DevOps :-
-         Docker   ci/cd
+### **Backend**
+- Express  
+- Redis  
+- Kafka  
+- Prisma  
+- PostgreSQL  
 
-  P-Languages :-
-         Java   TypeScript   JavaScript   C    Python
+### **DevOps**
+- Docker  
+- CI/CD  
 
-  Tools :-
-         Git/Github   TurboRepo
+### **Programming Languages**
+- Java  
+- TypeScript  
+- JavaScript  
+- C  
+- Python  
+
+### **Tools**
+- Git / GitHub  
+- TurboRepo  
+
