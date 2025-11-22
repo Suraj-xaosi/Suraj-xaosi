@@ -1,10 +1,8 @@
 # Hi, I'm Suraj 👋
 
 I am a **Full-Stack Web Developer**.
-
 ---
 
-## 🚀 Technologies I Work With
 
 ### **Frontend**
 - React  
