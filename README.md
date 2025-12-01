@@ -17,9 +17,11 @@ I am a **Full-Stack Web Developer**.
 - Prisma  
 - PostgreSQL  
 
-### **DevOps**
+### **Tools and Cloud **
 - Docker  
-- CI/CD  
+- CI/CD
+- Git/GitHub
+- Turborepo 
 
 ### **Programming Languages**
 - Java  
@@ -27,8 +29,3 @@ I am a **Full-Stack Web Developer**.
 - JavaScript  
 - C  
 - Python  
-
-### **Tools**
-- Git / GitHub  
-- TurboRepo  
-
