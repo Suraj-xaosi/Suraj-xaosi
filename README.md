@@ -1,7 +1,4 @@
 # Hi, I'm Suraj 👋
-
-I am a **Full-Stack Web Developer**.
-
 ---
 
 ### 🚀 Frontend
