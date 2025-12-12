@@ -1,4 +1,3 @@
-# Hi, I'm Suraj 👋
 
 ### 🚀 Frontend
 `React` • `Next.js` • `Tailwind CSS` • `Redux Toolkit`
