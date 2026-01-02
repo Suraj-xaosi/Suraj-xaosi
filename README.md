@@ -1,13 +1,13 @@
 
-### 🚀 Frontend
+## 🚀 Frontend
 `React` • `Next.js` • `Tailwind CSS` • `Redux Toolkit`
 
-### 🛠 Backend
-`Express` • `Redis` • `Kafka` • `Prisma` • `PostgreSQL`
+## 🛠 Backend
+`Express` • `Redis` • `Kafka` • `Prisma` • `PostgreSQL` • `SQL`
 
-### ☁️ Tools & Cloud
+## ☁️ Tools & Cloud
 `Docker` • `CI/CD` • `Git/GitHub` • `Turborepo`
 
-### 💻 Programming Languages
-`Java` • `TypeScript` • `JavaScript` • `C` • `Python`
+## 💻 Programming Languages
+`Java` • `TypeScript` • `JavaScript` • `C` 
   
