@@ -6,7 +6,7 @@
 `Express` • `Redis` • `Kafka` • `Prisma` • `PostgreSQL` • `SQL`
 
 ## ☁️ Tools & Cloud
-`Docker` • `CI/CD` • `Git/GitHub` • `Turborepo`
+`Docker` • `Git/GitHub` • `Turborepo`
 
 ## 💻 Programming Languages
 `Java` • `TypeScript` • `JavaScript` • `C` 
