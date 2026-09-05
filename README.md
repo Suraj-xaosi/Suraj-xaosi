@@ -1,6 +1,6 @@
 
 ## 🚀 Frontend
-`React` • `Next.js` • `Tailwind CSS` • `Redux Toolkit` • `shadCN` • `React query`
+`React` • `Next.js` • `Tailwind CSS` • `Redux Toolkit` • `shadCN` • `React/tankstack query`
 
 ## 🛠 Backend
 `Express` • `Redis` • `Kafka` • `Prisma` • `PostgreSQL` • `SQL`
