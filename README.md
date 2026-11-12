@@ -1,13 +1,13 @@
 
-## 🚀 Frontend
-`React` • `Next.js` • `Tailwind CSS` • `Redux Toolkit` • `shadCN` • `React/tankstack query`
+## Frontend
+`React` • `Next.js`  •`React/tankstack query`
 
-## 🛠 Backend
-`Express` • `Redis` • `Kafka` • `Prisma` • `PostgreSQL` • `SQL` • `WEBSOCKET` • `CDN` • `MongoDB`
+##  Backend
+`Express` • `Redis` • `Kafka` • `PostgreSQL` • `WEBSOCKET` • `CDN` 
 
-## ☁️ Tools & Cloud
-`Docker` • `Git/GitHub` • `Turborepo` 
+##  Tools
+`Docker` • `Git/GitHub` • `Turborepo`  • `NVIM` 
 
-## 💻 Programming Languages
-`Java` • `TypeScript` • `JavaScript` • `C` 
+## Programming Languages
+`Java` • `TypeScript` • `JavaScript` 
   
